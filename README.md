@@ -28,8 +28,9 @@ Recordando que también debe ser posible convertir inversamente, es decir:
     - Convertir de Won sul-coreano a la moneda de tu país
 ```
 
-## Como funciona.   :nerd_face: :nerd_face:
+## Como funciona   :nerd_face: :nerd_face:
 ***
+
 El programa convierte varios valores otorgados por el usuario con base a la operación solicitada, estas son presentadas en dos grupos:
 
 * Conversor de Monedas: Pesos Colombianos, Dólares, Euros, Libras, Yenes, Wones.
