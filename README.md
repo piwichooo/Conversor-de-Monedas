@@ -29,7 +29,7 @@ Recordando que también debe ser posible convertir inversamente, es decir:
 ```
 
 ## Como funciona   :nerd_face: :nerd_face:
-***
+
 
 El programa convierte varios valores otorgados por el usuario con base a la operación solicitada, estas son presentadas en dos grupos:
 
@@ -37,10 +37,10 @@ El programa convierte varios valores otorgados por el usuario con base a la oper
 * Conversor de Temperatura: Celsius, Kelvin, Fahtenheit.
 
 ## Cómo ejecutar el programa :sunglasses: :sunglasses:
-***
+
 Primero debes de descargar el zip del proyecto y luego abrelo en tu Java IDE, sigue la ruta Conversor-ChallengeAlura>src>main.java. Ejecuta la clase main y el programa compilará e iniciará.
 
 ## Desarrollado por
-***
+
 
 -Monteagudo john. Alura Latam grupo 5, especialización en Backend.
