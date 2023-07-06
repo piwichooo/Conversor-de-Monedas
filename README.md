@@ -1,10 +1,12 @@
-Descripción:
+###¡Bienvenido al primer desafío del Challenge Java!  :penguin: :penguin:
 
-¡Bienvenido al primer desafío del Challenge Java!
+Este proyecto corresponde al Challenge Backend Java de Oracle Next Education. La presmisa del challenge consistía en crear un conversor de divisas(monedas) y de ser posible agregarle algún otro conversor.
 
-En esta oportunidad, a los Devs se nos solicitó crear un conversor de divisas utilizando el lenguaje Java. Las características solicitadas por nuestro cliente son las siguientes:
+Este programa se desarrollo utilizando los componentes de Java Swing en específico en este programa se emplearon las extensiones de JOptionPane para la interfaz gráfica y se basa con un diseño simple para prever la buena experiencia del usuario, además, se intentó en su mayoria minimizar cualquier tipo de error que implique una mala experiencia en la ejecución.
 
-Requisitos:
+En este programa todos los valores de conversión son estáticos para las divisas, no se implementó ninguna API, por lo tanto las conversiones monetarias son resultados aproximados.
+
+##Requisitos:
 
 El convertidor de moneda debe:
 ```
@@ -25,17 +27,12 @@ Recordando que también debe ser posible convertir inversamente, es decir:
     - Convertir de Won sul-coreano a la moneda de tu país
 ```
 
-Extras:
+## Como funciona.   :nerd_face: :nerd_face:
+***
 
-Como desafío extra te animamos a que dejes fluir tu creatividad, si puedo convertir divisas, ¿tal vez pueda añadir a mi programa otros tipos de conversiones como temperatura por ejemplo?
+El programa convierte varios valores otorgados por el usuario con base a la operación solicitada, estas son presentadas en dos grupos:
 
-Añadidos:
-* Consumo de api Exchangered para la conversion de divisas
+* Conversor de Monedas: Pesos Colombianos, Dólares, Euros, Libras, Yenes, Wones.
+* Conversor de Temperatura: Celsius, Kelvin, Fahtenheit.
 
-* Conversor de Temperatura (Permite valores negativos)
 
-* Conversor de Longitudes
-
-* ¡Todos aceptan valores decimales!
-
-* Interfaz grafica con java.swing + windowBuilder de netbeans IDE
