@@ -7,7 +7,7 @@ Este programa se desarrollo utilizando los componentes de Java Swing en específ
 
 En este programa todos los valores de conversión son estáticos para las divisas, no se implementó ninguna API, por lo tanto las conversiones monetarias son resultados aproximados.
 
-##Requisitos:
+## Requisitos:
 
 El convertidor de moneda debe:
 ```
@@ -36,4 +36,11 @@ El programa convierte varios valores otorgados por el usuario con base a la oper
 * Conversor de Monedas: Pesos Colombianos, Dólares, Euros, Libras, Yenes, Wones.
 * Conversor de Temperatura: Celsius, Kelvin, Fahtenheit.
 
+## Cómo ejecutar el programa :sunglasses: :sunglasses:
+***
+Primero debes de descargar el zip del proyecto y luego abrelo en tu Java IDE, sigue la ruta Conversor-ChallengeAlura>src>main.java. Ejecuta la clase main y el programa compilará e iniciará.
 
+## Desarrollado por
+***
+
+-Monteagudo john. Alura Latam grupo 5, especialización en Backend.
