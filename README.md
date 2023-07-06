@@ -1,4 +1,5 @@
-###¡Bienvenido al primer desafío del Challenge Java!  :penguin: :penguin:
+### ¡Bienvenido al primer desafío del Challenge Java!  :penguin: :penguin:
+***
 
 Este proyecto corresponde al Challenge Backend Java de Oracle Next Education. La presmisa del challenge consistía en crear un conversor de divisas(monedas) y de ser posible agregarle algún otro conversor.
 
@@ -29,7 +30,6 @@ Recordando que también debe ser posible convertir inversamente, es decir:
 
 ## Como funciona.   :nerd_face: :nerd_face:
 ***
-
 El programa convierte varios valores otorgados por el usuario con base a la operación solicitada, estas son presentadas en dos grupos:
 
 * Conversor de Monedas: Pesos Colombianos, Dólares, Euros, Libras, Yenes, Wones.
